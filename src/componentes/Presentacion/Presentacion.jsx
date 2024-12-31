@@ -19,7 +19,7 @@ const Presentacion = () => {
           <p>Poseo una <span>gran pasión por la resolución de problemas.</span> Cuento con habilidades técnicas sólidas respaldadas por proyectos académicos y experiencia práctica en <span>entornos de desarrollo de clase</span> y <span>proyectos personales</span>.</p>
           <p>Estoy ansioso por obtener mi primera experiencia laboral en el área IT.</p>
           <article className='text-center'>
-          <a href="#curriculum" className="text-decoration-none curriculumButton">Currículum</a>
+          <a href="./Curriculum/Gaston-CV.pdf" className="text-decoration-none curriculumButton">Currículum</a>
           </article>
          
         </div>

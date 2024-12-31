@@ -26,3 +26,7 @@ form button[type="submit"] {
 .contacto form{
     text-align: start;
 }
+
+.contacto{
+    margin-top: 150px !important;
+}
