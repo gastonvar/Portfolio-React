@@ -22,7 +22,7 @@ const Header = () => {
           <li className="list-inline-item"><a href="#estudios" className="text-decoration-none">Estudios</a></li>
           <li className="list-inline-item"><a href="#contacto" className="text-decoration-none">Contacto</a></li>
           <li className="list-inline-item"><a href="./Escolaridad/Escolaridad.png" target="_blank" className="text-decoration-none">Escolaridad</a></li>
-          <li className="list-inline-item"><a target="_blank" rel="noopener noreferrer" href="" className='linkedinlogo'>‎</a></li>
+          <li className="list-inline-item"><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/gast%C3%B3n-varela-78a299357/" className='linkedinlogo'>‎</a></li>
         </ul>
       </nav>
     </header>
